@@ -1,0 +1,7 @@
+# Project exclude paths
+/node_modules/
+/.env
+/dist/
+/.idea/**/workspace.xml
+/.idea/**/tasks.xml
+/.parcel-cache/
